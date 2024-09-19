@@ -165,3 +165,4 @@ D:\Proyectos\curso-angular\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\refint\Pel
 D:\Proyectos\curso-angular\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.pdb
 D:\Proyectos\curso-angular\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.genruntimeconfig.cache
 D:\Proyectos\curso-angular\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\ref\PeliculasAPI.dll
+D:\Proyectos\curso-angular\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.sourcelink.json

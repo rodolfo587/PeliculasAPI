@@ -10,7 +10,7 @@ namespace PeliculasAPI.Controllers
     {
         private readonly IOutputCacheStore outputCacheStore;
         private readonly ApplicationDbContext context;
-        private const string cacheTag = "generos";
+        private const string cacheTag = "generos"; 
 
         public GenerosController(IOutputCacheStore outputCacheStore, ApplicationDbContext context)
         {

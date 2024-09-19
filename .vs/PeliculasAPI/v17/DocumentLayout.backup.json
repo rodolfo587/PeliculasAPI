@@ -42,8 +42,7 @@
               "RelativeToolTip": "PeliculasAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:45:12.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T02:45:12.426Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "PeliculasAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-19T02:19:10.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T02:19:10.263Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "PeliculasAPI\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:17:52.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T02:17:52.538Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "PeliculasAPI\\Entidades\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T20:30:53.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T20:30:53.649Z"
             }
           ]
         }
